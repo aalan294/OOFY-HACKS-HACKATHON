@@ -20,3 +20,5 @@ Since the admin page is not yet created, it's recommended to run the contract se
 - **Hosted Application:** https://oofy-hacks-hackathon.vercel.app/
 
 For further details and a comprehensive demonstration, please watch the demo video and explore the hosted application.
+
+TOP 10 Position at OOFY HACKS 1.0
