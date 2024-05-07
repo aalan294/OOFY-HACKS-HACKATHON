@@ -110,7 +110,7 @@ const Home = ({setUser, contract}) => {
                     </div>
                     <div className="text">
                         <h1>OrganChain</h1>
-                        <h2>A Blockchain Based Organ Donation and Tracking Platform</h2>
+                        <h2>A Decentralized Organ Donation and Tracking Platform</h2>
                     </div>
                 </div>
                </div>
