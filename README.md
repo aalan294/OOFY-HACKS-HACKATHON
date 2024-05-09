@@ -17,7 +17,7 @@ Since the admin page is not yet created, it's recommended to run the contract se
 
 ## Additional Resources
 - **Demo Video:** https://vimeo.com/935056816?share=copy
-- **Hosted Application:** https://oofy-hacks-hackathon.vercel.app/
+- **Hosted Application:** https://oofy-hacks-error404.vercel.app/
 
 For further details and a comprehensive demonstration, please watch the demo video and explore the hosted application.
 
